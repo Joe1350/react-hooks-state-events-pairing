@@ -10,3 +10,11 @@ body {
 .App {
   text-align: center;
 }
+
+.hidden {
+  display: none;
+}
+
+#comments {
+  border-top: solid gray 1px;
+}
